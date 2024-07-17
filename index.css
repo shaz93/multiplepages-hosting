@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(250, 203, 211);
+}
+a {
+    display: flex;
+    justify-content: center;
+    color: rgb(145, 23, 194);
+    padding: 10px;
+}
+h1,h3{
+    text-align: center;
+    color: rgb(9, 92, 92);
+    font-family: sans-serif ;
+    text-decoration: underline;
+}
+p {
+    text-align: center;
+
+}
+ul {
+    list-style: none;
+    text-align: center;
+    font: 1em sans-serif;
+
+}
+img{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border-radius: 7px;
+    box-shadow: 10px 10px 5px gray;
+    margin-bottom: 20px;
+}
