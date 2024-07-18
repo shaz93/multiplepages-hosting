@@ -1,11 +1,10 @@
 body {
     background-color: rgb(250, 203, 211);
 }
-a {
-    display: flex;
-    justify-content: center;
+footer a {
+    text-align: center;
     color: rgb(145, 23, 194);
-    padding: 10px;
+    margin: 0 10px;
 }
 h1,h3{
     text-align: center;
