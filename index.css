@@ -2,9 +2,11 @@ body {
     background-color: rgb(250, 203, 211);
 }
 footer a {
-    text-align: center;
     color: rgb(145, 23, 194);
     margin: 0 10px;
+}
+footer{
+text-align: center;
 }
 h1,h3{
     text-align: center;
